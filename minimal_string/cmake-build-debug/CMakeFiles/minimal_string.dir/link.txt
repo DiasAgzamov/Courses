@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/minimal_string.dir/minimal_string.cpp.o  -o minimal_string 

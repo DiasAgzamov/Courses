@@ -1,0 +1,3 @@
+/home/dream/CLionProjects/minimal_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dream/CLionProjects/minimal_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dream/CLionProjects/minimal_string/cmake-build-debug/CMakeFiles/minimal_string.dir

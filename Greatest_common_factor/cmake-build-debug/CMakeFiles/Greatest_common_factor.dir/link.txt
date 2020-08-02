@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Greatest_common_factor.dir/GCF.cpp.o  -o Greatest_common_factor 
