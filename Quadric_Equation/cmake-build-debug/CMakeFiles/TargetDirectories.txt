@@ -1,0 +1,3 @@
+/home/dream/CLionProjects/Quadric_Equation/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dream/CLionProjects/Quadric_Equation/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dream/CLionProjects/Quadric_Equation/cmake-build-debug/CMakeFiles/Quadric_Equation.dir

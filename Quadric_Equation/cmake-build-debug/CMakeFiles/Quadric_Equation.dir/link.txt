@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Quadric_Equation.dir/Quadratic_Equation.cpp.o  -o Quadric_Equation 
