@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Cost_Calculation.dir/calculation.cpp.o  -o Cost_Calculation 
