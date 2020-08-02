@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/Even_numbers.dir/Even_numbers.cpp.o  -o Even_numbers 

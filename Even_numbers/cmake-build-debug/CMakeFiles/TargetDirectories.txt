@@ -1,0 +1,3 @@
+/home/dream/CLionProjects/Even_numbers/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/dream/CLionProjects/Even_numbers/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/dream/CLionProjects/Even_numbers/cmake-build-debug/CMakeFiles/Even_numbers.dir
