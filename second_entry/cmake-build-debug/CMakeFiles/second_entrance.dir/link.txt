@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/second_entrance.dir/sec_entry.cpp.o  -o second_entrance 
