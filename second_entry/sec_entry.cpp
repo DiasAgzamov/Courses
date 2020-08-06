@@ -15,13 +15,13 @@ int main() {
         for (int i = 0; i < s.size(); i++) {
             if (s[i] == 'f') {
                 x++;
-                if (x == 2) {
-                    std::cout << i << std::endl;
-                    break;
-                }
+            }
+            if (x == 2) {
+                std::cout << i << std::endl;
+                break;
             }
         }
     }
-
+    
     return 0;
 }
