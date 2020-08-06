@@ -8,7 +8,7 @@ int main() {
     int a = count(begin(s), end(s), 'f');
     int x = 0;
     if (a == 0){
-            std::cout << "-2" << std::endl;
+        std::cout << "-2" << std::endl;
         }else if(a == 1) {
         std::cout << "-1" << std::endl;
     }else {
